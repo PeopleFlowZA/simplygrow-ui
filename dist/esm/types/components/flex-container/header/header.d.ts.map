@@ -1,0 +1,1 @@
+{"version":3,"file":"header.d.ts","sourceRoot":"","sources":["../../../../lib/components/flex-container/header/header.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,EAAE,EAAE,SAAS,EAAE,MAAM,OAAO,CAAC;AAItC,UAAU,WAAW;IACnB,QAAQ,EAAE,SAAS,CAAC;CACrB;AAED,QAAA,MAAM,MAAM,EAAE,EAAE,CAAC,WAAW,CAM3B,CAAC;AAEF,eAAe,MAAM,CAAC"}
